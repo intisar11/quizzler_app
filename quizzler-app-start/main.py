@@ -13,7 +13,7 @@ for question in question_data:
 
 
 quiz = QuizBrain(question_bank)
-userinterface = UserInterface()
+quiz_ui = UserInterface()
 
 
 #while quiz.still_has_questions():
